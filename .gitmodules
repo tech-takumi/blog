@@ -1,0 +1,7 @@
+[submodule "tech-takumi/themes/PaperMod"]
+	path = tech-takumi/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "tech-takumi/public"]
+	path = tech-takumi/public
+	url = git@github.com:tech-takumi/tech-takumi.github.io.git
+	branch = main
