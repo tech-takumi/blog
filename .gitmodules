@@ -5,3 +5,5 @@
 	path = tech-takumi/public
 	url = git@github.com:tech-takumi/tech-takumi.github.io.git
 	branch = main
+	recurse = true
+
